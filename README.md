@@ -1,4 +1,3 @@
-My name's Hachi. I'm an all-rounder game developer, artist and designer.
-I work my best in C# and C++.
+I'm Hachi/Vibeware. I am a game developer based in Ontario.
 
-Check the links to see what I'm actively working on.
+Check the links to see what I'm  working on at the moment. I keep it updated to the best of my ability =)
